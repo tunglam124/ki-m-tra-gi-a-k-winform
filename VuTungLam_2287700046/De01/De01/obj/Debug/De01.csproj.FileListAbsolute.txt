@@ -1,0 +1,15 @@
+C:\Users\VICTUS\OneDrive\Desktop\VuTungLam_2287700046\De01\De01\bin\Debug\De01.exe.config
+C:\Users\VICTUS\OneDrive\Desktop\VuTungLam_2287700046\De01\De01\bin\Debug\De01.exe
+C:\Users\VICTUS\OneDrive\Desktop\VuTungLam_2287700046\De01\De01\bin\Debug\De01.pdb
+C:\Users\VICTUS\OneDrive\Desktop\VuTungLam_2287700046\De01\De01\bin\Debug\EntityFramework.dll
+C:\Users\VICTUS\OneDrive\Desktop\VuTungLam_2287700046\De01\De01\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\VICTUS\OneDrive\Desktop\VuTungLam_2287700046\De01\De01\bin\Debug\EntityFramework.xml
+C:\Users\VICTUS\OneDrive\Desktop\VuTungLam_2287700046\De01\De01\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\VICTUS\OneDrive\Desktop\VuTungLam_2287700046\De01\De01\obj\Debug\De01.csproj.AssemblyReference.cache
+C:\Users\VICTUS\OneDrive\Desktop\VuTungLam_2287700046\De01\De01\obj\Debug\De01.Form1.resources
+C:\Users\VICTUS\OneDrive\Desktop\VuTungLam_2287700046\De01\De01\obj\Debug\De01.Properties.Resources.resources
+C:\Users\VICTUS\OneDrive\Desktop\VuTungLam_2287700046\De01\De01\obj\Debug\De01.csproj.GenerateResource.cache
+C:\Users\VICTUS\OneDrive\Desktop\VuTungLam_2287700046\De01\De01\obj\Debug\De01.csproj.CoreCompileInputs.cache
+C:\Users\VICTUS\OneDrive\Desktop\VuTungLam_2287700046\De01\De01\obj\Debug\De01.csproj.Up2Date
+C:\Users\VICTUS\OneDrive\Desktop\VuTungLam_2287700046\De01\De01\obj\Debug\De01.exe
+C:\Users\VICTUS\OneDrive\Desktop\VuTungLam_2287700046\De01\De01\obj\Debug\De01.pdb
